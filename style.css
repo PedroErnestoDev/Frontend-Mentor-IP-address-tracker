@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-image: url("images/pattern-bg-desktop.png");
+    background-image: url("./images/pattern-bg-desktop.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -145,6 +145,6 @@ header {
 
 @media (max-width: 375px) {
     header {
-        background-image: url("images/pattern-bg-mobile.png");
+        background-image: url("./images/pattern-bg-mobile.png");
     }
 }
